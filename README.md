@@ -6,4 +6,5 @@ I'm from Argentina and I've studied Industrial Engineering (UBA - Universidad de
 
 ## Contact
 <nico-battaglia@hotmail.com>
+
 [LinkedIn](https://www.linkedin.com)
