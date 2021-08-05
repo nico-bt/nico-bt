@@ -1,8 +1,10 @@
 ## Hello 👋
 
-My name is Nicolas Battaglia.  
+My name is Nicolas.  
+I'm from Argentina and I've studied Industrial Engineering. 
+
 Diving in WebDev (MERN stack) and Machine Learning.  
-I'm from Argentina and I've studied Industrial Engineering
+In process of switching career from electrical distribution background.
 
 ## Contact
 <nico-battaglia@hotmail.com>  
